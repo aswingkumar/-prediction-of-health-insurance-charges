@@ -10,3 +10,4 @@ This is a health insurance charges prediction model that uses a linear regressio
 - Smoker            	-       Whether or not the customer is a smoker. (Boolean)
 - Region            	-       The region the customer lives in. (String)
 - Charges           	-         The insurance charges for the customer. (Float)
+ To see the complete video explanation on this topic, check out the following link:
