@@ -11,7 +11,7 @@ This is a health insurance charges prediction model that uses a linear regressio
 - Region            	-       The region the customer lives in. (String)
 - Charges           	-         The insurance charges for the customer. (Float)
 - 
- To see the complete video explanation on this topic, check out the following link:
+ To see the complete video explanation on this topic, check out the following link:  https://youtu.be/-SiAMxNIV20?si=IKhpgW8Fo7ZZHqrF
 
 # Workflow of Machine Learning Problem
 1. Explore the data and find correlations between inputs and targets
